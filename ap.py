@@ -1,5 +1,5 @@
 from graphics import *
-import random
+
 pa = input('f(p,a)= ')
 qa = input('f(q,a)= ')
 ra = input('f(r,a)= ')
